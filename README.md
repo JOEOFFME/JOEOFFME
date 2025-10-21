@@ -6,7 +6,7 @@
 
 I'm a Data Scientist and AI enthusiast who loves to find patterns in the chaos. 
 
-My passion lies at the exciting intersection of **Healthcare ** and **FinTech **. Whether it's analyzing a patient's vital signs or the market's dollar signs, I'm on a mission to use data to build smarter, healthier, and (maybe even) wealthier solutions.
+My passion lies at the exciting intersection of **Healthcare** and **FinTech**. Whether it's analyzing a patient's vital signs or the market's dollar signs, I'm on a mission to use data to build smarter, healthier, and (maybe even) wealthier solutions.
 
 -   In **Healthcare**, I build multi-modal systems, using Computer Vision (PyTorch) for medical imaging and ML models for diagnostics.
 -   In **Finance/FinTech**, I'm diving into algorithmic trading,analysing bankruptcy and market forecasting.
